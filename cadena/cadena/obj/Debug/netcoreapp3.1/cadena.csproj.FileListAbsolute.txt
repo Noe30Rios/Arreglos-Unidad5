@@ -1,0 +1,13 @@
+C:\Users\52324\source\repos\cadena\cadena\bin\Debug\netcoreapp3.1\cadena.exe
+C:\Users\52324\source\repos\cadena\cadena\bin\Debug\netcoreapp3.1\cadena.deps.json
+C:\Users\52324\source\repos\cadena\cadena\bin\Debug\netcoreapp3.1\cadena.runtimeconfig.json
+C:\Users\52324\source\repos\cadena\cadena\bin\Debug\netcoreapp3.1\cadena.runtimeconfig.dev.json
+C:\Users\52324\source\repos\cadena\cadena\bin\Debug\netcoreapp3.1\cadena.dll
+C:\Users\52324\source\repos\cadena\cadena\bin\Debug\netcoreapp3.1\cadena.pdb
+C:\Users\52324\source\repos\cadena\cadena\obj\Debug\netcoreapp3.1\cadena.csprojAssemblyReference.cache
+C:\Users\52324\source\repos\cadena\cadena\obj\Debug\netcoreapp3.1\cadena.AssemblyInfoInputs.cache
+C:\Users\52324\source\repos\cadena\cadena\obj\Debug\netcoreapp3.1\cadena.AssemblyInfo.cs
+C:\Users\52324\source\repos\cadena\cadena\obj\Debug\netcoreapp3.1\cadena.csproj.CoreCompileInputs.cache
+C:\Users\52324\source\repos\cadena\cadena\obj\Debug\netcoreapp3.1\cadena.dll
+C:\Users\52324\source\repos\cadena\cadena\obj\Debug\netcoreapp3.1\cadena.pdb
+C:\Users\52324\source\repos\cadena\cadena\obj\Debug\netcoreapp3.1\cadena.genruntimeconfig.cache
